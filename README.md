@@ -68,7 +68,7 @@
 
 # &nbsp;   ```bash
 
-# &nbsp;   git clone \[https://github.com/omannd/mini-ecommerce-sql.git](https://github.com/YOUR\_USERNAME/mini-ecommerce-sql.git)
+# &nbsp;   git clone \[https://github.com/omannd/mini-ecommerce-sql.git](https://github.com/omannd/mini_ecommerce_sql.git)
 
 # &nbsp;   ```
 
